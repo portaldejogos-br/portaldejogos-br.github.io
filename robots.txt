@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portaldejogos-br.github.io/sitemap.xml
+Sitemap: https://portaldejogos-br.github.io/sitemap.txt
